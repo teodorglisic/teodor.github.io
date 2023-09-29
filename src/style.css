@@ -1,0 +1,11 @@
+body {
+    font-family: "Courier New";
+    color: chocolate;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
